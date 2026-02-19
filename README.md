@@ -1,0 +1,1 @@
+Best non-patch shader for MCPE & Bedrock! Works on original Minecraft, no mods needed. Realistic fog, waving leaves/water, smooth lighting & no lag on low-end devices. RenderDragon compatible. Boost visuals without hurting performance!
